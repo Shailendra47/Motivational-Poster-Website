@@ -1,0 +1,23 @@
+* {
+    text-align: center;
+}
+div {
+    background-color: burlywood;
+    height: 960px;
+}
+img {
+    border: 5px solid white;
+    margin-top: 15px;
+    padding: 5px;
+}
+h1 {
+    text-decoration: underline;
+    text-transform: capitalize;
+    font-family: 'Libre Baskerville', serif;
+}
+p {
+    font-family: 'Dosis', sans-serif;
+}
+hr {
+    width: 1300px;
+}
